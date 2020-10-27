@@ -3,7 +3,7 @@
 ## Overview
 In this tutorial, we will use [**React Native**](https://reactnative.dev/) to build Text to Voice over app. It enables Deaf users to type a text and click speak button. The app speaks a voice for them.
 
-![Speaking]()
+![Text to Voiceover demo](https://github.com/deafelimuplus/text-to-voice-over-tutorial/blob/main/images/textVoiceOverDemo.gif)
 
 ## Prerequisties
 * Basic knowledge of Javascript language
