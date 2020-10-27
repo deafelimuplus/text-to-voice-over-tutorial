@@ -44,7 +44,7 @@ npm install -g yarn
   
   After executing the command, a folder is created with the following files:- 
   
-  ![Files]()
+  ![Files](https://github.com/deafelimuplus/text-to-voice-over-tutorial/blob/main/images/files.png)
         
 3. To navigate to **TextToVoiceOver** folder using this command:
 
@@ -61,7 +61,7 @@ After you download and install **Expo** client app on your iOS or Android phone,
 1. Open **Expo** client app
 2. To run the app on your iOS or Android phone, scan the QR code with Expo app (Android) or the Camera app (iOS).
 
-![Scan QR code]()
+![Scan QR code](https://github.com/deafelimuplus/text-to-voice-over-tutorial/blob/main/images/scanQR.png)
 
 3. `expo-speech` provides an API that allows you to utilize Text-to-speech functionality in your app. To install **expo-speech**, run the following command:-
 
